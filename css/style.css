@@ -205,7 +205,7 @@ animation-delay: .8s;
 #team-section .team-member-wrapper .single-team-member .member-name h6,
 #team-section .team-member-wrapper .single-team-member .member-name p,
 #team-section .team-member-wrapper .single-team-member .member-name ul,
-#our-client .owl-theme .owl-dots .owl-dot span {
+#news .owl-theme .owl-dots .owl-dot span {
   -webkit-transition: all .3s ease-in-out;
      -moz-transition: all .3s ease-in-out;
       -ms-transition: all .3s ease-in-out;
@@ -251,7 +251,7 @@ animation-delay: .8s;
   margin: 60px auto 0 auto;
 }
 .p-color,.theme-main-menu .navbar-nav>li.active>a,
-.theme-main-menu .navbar-nav>li>a:hover,#about-us .single-about-content:hover h5 a,
+.theme-main-menu .navbar-nav>li>a:hover,#about-me .single-about-content:hover h5 a,
 #service-section .single-service-content:hover .icon-heading .icon,
 #service-section .single-service-content:hover .icon-heading h6 a,
 #pricing-section .single-price-table a:hover,#blog-section .single-news-item .img a,
@@ -268,17 +268,17 @@ animation-delay: .8s;
 .blog-details-post-wrapper .post-share-area .share li a.active {
   color:#d73e4d;
 }
-.p-color-bg,.theme-title h2:before,#about-us .single-about-content:hover .icon,
-#skill-section .codeconSkillbar .skillBar,#our-client .owl-theme .owl-dots .owl-dot.active span,
-#our-client .owl-theme .owl-dots .owl-dot:hover span,
+.p-color-bg,.theme-title h2:before,#about-me .single-about-content:hover .icon,
+#skill-section .codeconSkillbar .skillBar,#news .owl-theme .owl-dots .owl-dot.active span,
+#news .owl-theme .owl-dots .owl-dot:hover span,
 .blog-details-post-wrapper .comment-area .single-comment .comment button:hover {
   background: #d73e4d;
 }
-.banner .project-button,#about-us .icon,#about-us .single-about-content a.more,
+.banner .project-button,#about-me .icon,#about-me .single-about-content a.more,
 #service-section .single-service-content:hover,#project-section .project-menu ul li.active,
 #project-section .project-menu ul li:hover,.page-middle-banner .opacity a,
 #team-section .team-member-wrapper .single-team-member .img .opacity h4,#pricing-section .single-price-table a,
-#our-client .owl-theme .owl-dots .owl-dot.active span, #our-client .owl-theme .owl-dots .owl-dot:hover span,
+#news .owl-theme .owl-dots .owl-dot.active span, #news .owl-theme .owl-dots .owl-dot:hover span,
 #contact-section .contact-address-content .left-side ul li .icon,#contact-section .send-message form button,
 .sidebar-tags ul li a:hover,.blog-details-post-wrapper .post-comment form button,
 .blog-details-post-wrapper .post-comment textarea:focus,.blog-details-post-wrapper .post-comment input:focus {
@@ -432,12 +432,12 @@ animation-delay: .8s;
 ====================================================================
 
  ***/
-#about-us .single-about-content {
+#about-me .single-about-content {
   text-align: center;
   margin-top: 55px;
   margin-bottom: 100px;
 }
-#about-us .icon {
+#about-me .icon {
   width: 130px;
   height: 130px;
   margin: 0 auto;
@@ -446,19 +446,19 @@ animation-delay: .8s;
   font-size: 36px;
   color:#292929;
 }
-#about-us h5 a {
+#about-me h5 a {
   color:#292929;
   margin: 35px 0 20px 0;
 }
-#about-us .single-about-content a.more {
+#about-me .single-about-content a.more {
   width: 130px;
   line-height: 45px;
   color:#292929;
   border-width: 1px;
   margin-top:22px;
 }
-#about-us .single-about-content a.more:hover,
-#about-us .single-about-content:hover .icon {
+#about-me .single-about-content a.more:hover,
+#about-me .single-about-content:hover .icon {
   color:#fff;
 }
 /*** 
@@ -927,29 +927,29 @@ animation-delay: .8s;
 /*** 
 
 ====================================================================
-  Our Client
+  NEWS
 ====================================================================
 
  ***/
-#our-client .client-slider {
+#news .client-slider {
   text-align: center;
   margin:58px 0 50px 0;
 }
-#our-client .client-slider img {
+#news .client-slider img {
   margin: 0 auto;
 }
-#our-client .client-slider p {
+#news .client-slider p {
   font-size: 18px;
   line-height: 28px;
   color:#343434;
   width: 80%;
   margin: 33px auto 24px auto;
 }
-#our-client .client-slider h6 {
+#news .client-slider h6 {
   text-transform: capitalize;
   margin-bottom: 45px;
 }
-#our-client .owl-theme .owl-dots .owl-dot span {
+#news .owl-theme .owl-dots .owl-dot span {
   width: 13px;
   height: 13px;
   background: #fff;

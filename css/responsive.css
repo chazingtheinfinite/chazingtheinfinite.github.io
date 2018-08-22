@@ -41,7 +41,7 @@
   .theme-main-header .logo {width: 15%;}
   .theme-main-menu .navbar-nav>li>a {padding: 9px 12px;}
   .theme-title p {width: 95%;}
-  #our-client .client-slider p {width: 70%;}
+  #news .client-slider p {width: 70%;}
   .recent-single-post .post {width: 75%;}
 }
 /*(min-width: 992px) and (max-width: 1199px)*/
@@ -54,7 +54,7 @@
   .theme-main-header.fixed .theme-main-menu.navbar {margin-top: 0;}
   #project-section .project-gallery .grid-item,
   #team-section .team-member-wrapper .float-left {width: 50%;}
-  #our-client .client-slider p {width: 90%;}
+  #news .client-slider p {width: 90%;}
   .inner-page-banner .opacity {padding-top: 210px;}
 }
 /*(min-width: 768px) and (max-width: 991px)*/
@@ -86,7 +86,7 @@
   #project-section .project-gallery .grid-item {width: 50%;}
   #team-section .team-member-wrapper .float-left,
   #team-section .team-member-wrapper .float-left img,
-  #our-client .client-slider p {width: 100%;}
+  #news .client-slider p {width: 100%;}
   #team-section .team-member-wrapper .float-left,
   #project-section .project-gallery .grid-item,
   #service-section .row [class*="col-"],#skill-section [class*="col-"],
