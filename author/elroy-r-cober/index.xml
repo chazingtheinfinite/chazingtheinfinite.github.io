@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elroy R Cober | Kevin Dick, PhDc</title>
+    <link>https://kevindick.ai/author/elroy-r-cober/</link>
+      <atom:link href="https://kevindick.ai/author/elroy-r-cober/index.xml" rel="self" type="application/rss+xml" />
+    <description>Elroy R Cober</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2015-2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kevindick.ai/images/icon_hu1c053a1274b23fb48c6a1c0b5482e2ad_31633_512x512_fill_lanczos_center_2.png</url>
+      <title>Elroy R Cober</title>
+      <link>https://kevindick.ai/author/elroy-r-cober/</link>
+    </image>
+    
+    <item>
+      <title>Pipe4: Fast ppi predictor for comprehensive inter-and cross-species interactomes</title>
+      <link>https://kevindick.ai/publication/dick-2020-pipe-4/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://kevindick.ai/publication/dick-2020-pipe-4/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

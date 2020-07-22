@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniel J Burnside | Kevin Dick, PhDc</title>
+    <link>https://kevindick.ai/author/daniel-j-burnside/</link>
+      <atom:link href="https://kevindick.ai/author/daniel-j-burnside/index.xml" rel="self" type="application/rss+xml" />
+    <description>Daniel J Burnside</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2015-2020</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kevindick.ai/images/icon_hu1c053a1274b23fb48c6a1c0b5482e2ad_31633_512x512_fill_lanczos_center_2.png</url>
+      <title>Daniel J Burnside</title>
+      <link>https://kevindick.ai/author/daniel-j-burnside/</link>
+    </image>
+    
+    <item>
+      <title>Designing anti-Zika virus peptides derived from predicted human-Zika virus protein-protein interactions</title>
+      <link>https://kevindick.ai/publication/kazmirchuk-2017-designing/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://kevindick.ai/publication/kazmirchuk-2017-designing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

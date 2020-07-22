@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Kevin Dick, PhDc</title>
+    <link>https://kevindick.ai/publication-type/2/</link>
+      <atom:link href="https://kevindick.ai/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2015-2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kevindick.ai/images/icon_hu1c053a1274b23fb48c6a1c0b5482e2ad_31633_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>https://kevindick.ai/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Computational Prediction of the Comprehensive SARS-CoV-2 vs. Human Interactome to Guide the Design of Therapeutics</title>
+      <link>https://kevindick.ai/publication/dick-2020-computational/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://kevindick.ai/publication/dick-2020-computational/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pipe4: Fast ppi predictor for comprehensive inter-and cross-species interactomes</title>
+      <link>https://kevindick.ai/publication/dick-2020-pipe-4/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://kevindick.ai/publication/dick-2020-pipe-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RPmirDIP: Reciprocal Perspective improves miRNA targeting prediction</title>
+      <link>https://kevindick.ai/publication/kyrollos-2020-rpmirdip/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://kevindick.ai/publication/kyrollos-2020-rpmirdip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep learning for critical infrastructure resilience</title>
+      <link>https://kevindick.ai/publication/dick-2019-deep/</link>
+      <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://kevindick.ai/publication/dick-2019-deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In Silico Engineering of Synthetic Binding Proteins from Random Amino Acid Sequences</title>
+      <link>https://kevindick.ai/publication/burnside-2019-silico/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://kevindick.ai/publication/burnside-2019-silico/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Insights into the suitability of utilizing brown rats (Rattus norvegicus) as a model for healing spinal cord injury with epidermal growth factor and fibroblast growth factor-II by predicting protein-protein interactions</title>
+      <link>https://kevindick.ai/publication/grigg-2019-insights/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://kevindick.ai/publication/grigg-2019-insights/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Developing a Real-Time Patient Monitor Data Import System</title>
+      <link>https://kevindick.ai/publication/hozayen-2018-developing/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://kevindick.ai/publication/hozayen-2018-developing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High quality annotations of power infrastructure in Rural Ontario</title>
+      <link>https://kevindick.ai/publication/dick-2018-high/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://kevindick.ai/publication/dick-2018-high/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reciprocal perspective for improved protein-protein interaction prediction</title>
+      <link>https://kevindick.ai/publication/dick-2018-reciprocal/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://kevindick.ai/publication/dick-2018-reciprocal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designing anti-Zika virus peptides derived from predicted human-Zika virus protein-protein interactions</title>
+      <link>https://kevindick.ai/publication/kazmirchuk-2017-designing/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://kevindick.ai/publication/kazmirchuk-2017-designing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying Unvaccinated Individuals in Canada: A Predictive Model</title>
+      <link>https://kevindick.ai/publication/dick-2016-identifying/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://kevindick.ai/publication/dick-2016-identifying/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

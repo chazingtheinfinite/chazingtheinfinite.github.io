@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>James Green | Kevin Dick, PhDc</title>
+    <link>https://kevindick.ai/author/james-green/</link>
+      <atom:link href="https://kevindick.ai/author/james-green/index.xml" rel="self" type="application/rss+xml" />
+    <description>James Green</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2015-2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kevindick.ai/images/icon_hu1c053a1274b23fb48c6a1c0b5482e2ad_31633_512x512_fill_lanczos_center_2.png</url>
+      <title>James Green</title>
+      <link>https://kevindick.ai/author/james-green/</link>
+    </image>
+    
+    <item>
+      <title>PIPE4: Ultra-Fast PPI Predictor for Comprehensive Inter-and Cross-Species Interactomes</title>
+      <link>https://kevindick.ai/publication/samanfar-12-pipe-4/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://kevindick.ai/publication/samanfar-12-pipe-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Developing a Real-Time Patient Monitor Data Import System</title>
+      <link>https://kevindick.ai/publication/hozayen-2018-developing/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://kevindick.ai/publication/hozayen-2018-developing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High quality annotations of power infrastructure in Rural Ontario</title>
+      <link>https://kevindick.ai/publication/dick-2018-high/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://kevindick.ai/publication/dick-2018-high/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of sequence-and structure-based protein-protein interaction sites</title>
+      <link>https://kevindick.ai/publication/dick-2016-comparison/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://kevindick.ai/publication/dick-2016-comparison/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

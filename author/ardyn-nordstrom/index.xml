@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ardyn Nordstrom | Kevin Dick, PhDc</title>
+    <link>https://kevindick.ai/author/ardyn-nordstrom/</link>
+      <atom:link href="https://kevindick.ai/author/ardyn-nordstrom/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ardyn Nordstrom</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2015-2020</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kevindick.ai/images/icon_hu1c053a1274b23fb48c6a1c0b5482e2ad_31633_512x512_fill_lanczos_center_2.png</url>
+      <title>Ardyn Nordstrom</title>
+      <link>https://kevindick.ai/author/ardyn-nordstrom/</link>
+    </image>
+    
+    <item>
+      <title>Identifying Unvaccinated Individuals in Canada: A Predictive Model</title>
+      <link>https://kevindick.ai/publication/dick-2016-identifying/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://kevindick.ai/publication/dick-2016-identifying/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
