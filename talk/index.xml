@@ -5,12 +5,52 @@
     <link>https://kevindick.ai/talk/</link>
       <atom:link href="https://kevindick.ai/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2015-2020</copyright><lastBuildDate>Tue, 07 Jul 2020 10:30:00 +0000</lastBuildDate>
     <image>
       <url>https://kevindick.ai/images/icon_hu1c053a1274b23fb48c6a1c0b5482e2ad_31633_512x512_fill_lanczos_center_2.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://kevindick.ai/talk/</link>
     </image>
+    
+    <item>
+      <title>Chaos Game Representation for Proten Prediction Problems</title>
+      <link>https://kevindick.ai/talk/cgr-ppp/</link>
+      <pubDate>Tue, 07 Jul 2020 10:30:00 +0000</pubDate>
+      <guid>https://kevindick.ai/talk/cgr-ppp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gas Prices of America</title>
+      <link>https://kevindick.ai/talk/gpa-crv20/</link>
+      <pubDate>Thu, 14 May 2020 16:30:00 +0000</pubDate>
+      <guid>https://kevindick.ai/talk/gpa-crv20/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.computerrobotvision.org/proceedings/pdfs/CRV2020-1ugoWdlO2rSdvYvbAocrmh/989100a158/989100a158.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.computerrobotvision.org/posters/paper_57.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Poster&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=yyY6I2LsaMY&amp;amp;t=718s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Presentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://dataverse.scholarsportal.info/dataverse/gpa&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DataVerse&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://cu-bic.ca/gpa/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Website&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/GreenCUBIC/Gas-Prices-of-America&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AI/ML &amp; its Applications to Agriculture and Agri-Foods Canada</title>
+      <link>https://kevindick.ai/talk/aafc-diirectorate/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://kevindick.ai/talk/aafc-diirectorate/</guid>
+      <description>&lt;p&gt;Presentation slide are available 
+&lt;a href=&#34;https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
