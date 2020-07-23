@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Kevin Dick, PhDc</title>
+    <link>https://kevindick.ai/publication-type/3/</link>
+      <atom:link href="https://kevindick.ai/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Kevin Dick 2015-2020</copyright><lastBuildDate>Tue, 31 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kevindick.ai/images/icon_hu1c053a1274b23fb48c6a1c0b5482e2ad_31633_512x512_fill_lanczos_center_2.png</url>
+      <title>3</title>
+      <link>https://kevindick.ai/publication-type/3/</link>
+    </image>
+    
+    <item>
+      <title>Computational Prediction of the Comprehensive SARS-CoV-2 vs. Human Interactome to Guide the Design of Therapeutics</title>
+      <link>https://kevindick.ai/publication/dick-2020-computational/</link>
+      <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://kevindick.ai/publication/dick-2020-computational/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying Unvaccinated Individuals in Canada: A Predictive Model</title>
+      <link>https://kevindick.ai/publication/dick-2016-identifying/</link>
+      <pubDate>Thu, 28 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://kevindick.ai/publication/dick-2016-identifying/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

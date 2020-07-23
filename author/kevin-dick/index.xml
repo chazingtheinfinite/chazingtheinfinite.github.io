@@ -5,7 +5,7 @@
     <link>https://kevindick.ai/author/kevin-dick/</link>
       <atom:link href="https://kevindick.ai/author/kevin-dick/index.xml" rel="self" type="application/rss+xml" />
     <description>Kevin Dick</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Kevin Dick 2015-2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Kevin Dick 2015-2020</copyright><lastBuildDate>Thu, 16 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://kevindick.ai/images/icon_hu1c053a1274b23fb48c6a1c0b5482e2ad_31633_512x512_fill_lanczos_center_2.png</url>
       <title>Kevin Dick</title>
@@ -13,34 +13,42 @@
     </image>
     
     <item>
-      <title>Computational Prediction of the Comprehensive SARS-CoV-2 vs. Human Interactome to Guide the Design of Therapeutics</title>
-      <link>https://kevindick.ai/publication/dick-2020-computational/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://kevindick.ai/publication/dick-2020-computational/</guid>
+      <title>RPmirDIP: Reciprocal Perspective improves miRNA targeting prediction</title>
+      <link>https://kevindick.ai/publication/kyrollos-2020-rpmirdip/</link>
+      <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://kevindick.ai/publication/kyrollos-2020-rpmirdip/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gas Prices of America: The Machine-Augmented Crowd-Sourcing Era</title>
       <link>https://kevindick.ai/publication/dick-2020-gas/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
       <guid>https://kevindick.ai/publication/dick-2020-gas/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Pipe4: Fast ppi predictor for comprehensive inter-and cross-species interactomes</title>
+      <title>Computational Prediction of the Comprehensive SARS-CoV-2 vs. Human Interactome to Guide the Design of Therapeutics</title>
+      <link>https://kevindick.ai/publication/dick-2020-computational/</link>
+      <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://kevindick.ai/publication/dick-2020-computational/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PIPE4: Fast PPI Predictor for Comprehensive Inter- and Cross-Species Interactomes</title>
       <link>https://kevindick.ai/publication/dick-2020-pipe-4/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://kevindick.ai/publication/dick-2020-pipe-4/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>RPmirDIP: Reciprocal Perspective improves miRNA targeting prediction</title>
-      <link>https://kevindick.ai/publication/kyrollos-2020-rpmirdip/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://kevindick.ai/publication/kyrollos-2020-rpmirdip/</guid>
+      <title>Insights into the suitability of utilizing brown rats (Rattus norvegicus) as a model for healing spinal cord injury with epidermal growth factor and fibroblast growth factor-II by predicting protein-protein interactions</title>
+      <link>https://kevindick.ai/publication/grigg-2019-insights/</link>
+      <pubDate>Sat, 30 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://kevindick.ai/publication/grigg-2019-insights/</guid>
       <description></description>
     </item>
     
@@ -53,18 +61,10 @@
     </item>
     
     <item>
-      <title>In Silico Engineering of Synthetic Binding Proteins from Random Amino Acid Sequences</title>
+      <title>*In Silico* Engineering of Synthetic Binding Proteins from Random Amino Acid Sequences</title>
       <link>https://kevindick.ai/publication/burnside-2019-silico/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://kevindick.ai/publication/burnside-2019-silico/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Insights into the suitability of utilizing brown rats (Rattus norvegicus) as a model for healing spinal cord injury with epidermal growth factor and fibroblast growth factor-II by predicting protein-protein interactions</title>
-      <link>https://kevindick.ai/publication/grigg-2019-insights/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://kevindick.ai/publication/grigg-2019-insights/</guid>
       <description></description>
     </item>
     
@@ -77,17 +77,17 @@
     </item>
     
     <item>
-      <title>Developing a Real-Time Patient Monitor Data Import System</title>
-      <link>https://kevindick.ai/publication/hozayen-2018-developing/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://kevindick.ai/publication/hozayen-2018-developing/</guid>
+      <title>Systematic Street View Sampling: High quality annotation of power infrastructure in rural ontario</title>
+      <link>https://kevindick.ai/publication/dick-2018-systematic/</link>
+      <pubDate>Mon, 17 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://kevindick.ai/publication/dick-2018-systematic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fitting rank order data in the age of context</title>
       <link>https://kevindick.ai/publication/dick-2018-fitting/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 13 Dec 2018 00:00:00 +0000</pubDate>
       <guid>https://kevindick.ai/publication/dick-2018-fitting/</guid>
       <description></description>
     </item>
@@ -95,7 +95,7 @@
     <item>
       <title>High quality annotations of power infrastructure in Rural Ontario</title>
       <link>https://kevindick.ai/publication/dick-2018-high/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 30 Aug 2018 00:00:00 +0000</pubDate>
       <guid>https://kevindick.ai/publication/dick-2018-high/</guid>
       <description></description>
     </item>
@@ -103,16 +103,16 @@
     <item>
       <title>Reciprocal perspective for improved protein-protein interaction prediction</title>
       <link>https://kevindick.ai/publication/dick-2018-reciprocal/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
       <guid>https://kevindick.ai/publication/dick-2018-reciprocal/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Systematic street view sampling: High quality annotation of power infrastructure in rural ontario</title>
-      <link>https://kevindick.ai/publication/dick-2018-systematic/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://kevindick.ai/publication/dick-2018-systematic/</guid>
+      <title>Developing a Real-Time Patient Monitor Data Import System</title>
+      <link>https://kevindick.ai/publication/hozayen-2018-developing/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://kevindick.ai/publication/hozayen-2018-developing/</guid>
       <description></description>
     </item>
     
@@ -127,24 +127,24 @@
     <item>
       <title>Positome: A method for improving protein-protein interaction quality and prediction accuracy</title>
       <link>https://kevindick.ai/publication/dick-2017-positome/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 17 Oct 2017 00:00:00 +0000</pubDate>
       <guid>https://kevindick.ai/publication/dick-2017-positome/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Comparison of sequence-and structure-based protein-protein interaction sites</title>
-      <link>https://kevindick.ai/publication/dick-2016-comparison/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://kevindick.ai/publication/dick-2016-comparison/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Identifying Unvaccinated Individuals in Canada: A Predictive Model</title>
       <link>https://kevindick.ai/publication/dick-2016-identifying/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 28 Jul 2016 00:00:00 +0000</pubDate>
       <guid>https://kevindick.ai/publication/dick-2016-identifying/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of sequence-and structure-based protein-protein interaction sites</title>
+      <link>https://kevindick.ai/publication/dick-2016-comparison/</link>
+      <pubDate>Mon, 11 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://kevindick.ai/publication/dick-2016-comparison/</guid>
       <description></description>
     </item>
     
