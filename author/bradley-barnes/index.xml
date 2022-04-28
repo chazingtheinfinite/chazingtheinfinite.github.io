@@ -5,12 +5,20 @@
     <link>https://kevindick.ai/author/bradley-barnes/</link>
       <atom:link href="https://kevindick.ai/author/bradley-barnes/index.xml" rel="self" type="application/rss+xml" />
     <description>Bradley Barnes</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Kevin Dick 2015-2020</copyright><lastBuildDate>Wed, 29 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Kevin Dick 2015-2022</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://kevindick.ai/images/icon_hu1c053a1274b23fb48c6a1c0b5482e2ad_31633_512x512_fill_lanczos_center_2.png</url>
       <title>Bradley Barnes</title>
       <link>https://kevindick.ai/author/bradley-barnes/</link>
     </image>
+    
+    <item>
+      <title>Human--Soybean allergies: Elucidation of the seed proteome and comprehensive protein--protein interaction prediction</title>
+      <link>https://kevindick.ai/publication/dick-2021-human/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://kevindick.ai/publication/dick-2021-human/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>PIPE4: Fast PPI Predictor for Comprehensive Inter- and Cross-Species Interactomes</title>

@@ -5,7 +5,7 @@
     <link>https://kevindick.ai/publication-type/1/</link>
       <atom:link href="https://kevindick.ai/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Kevin Dick 2015-2020</copyright><lastBuildDate>Fri, 05 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Kevin Dick 2015-2022</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://kevindick.ai/images/icon_hu1c053a1274b23fb48c6a1c0b5482e2ad_31633_512x512_fill_lanczos_center_2.png</url>
       <title>1</title>
@@ -13,10 +13,42 @@
     </image>
     
     <item>
+      <title>Chaos Game Representation of Audio Signals</title>
+      <link>https://kevindick.ai/publication/cohen-2021-chaos/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://kevindick.ai/publication/cohen-2021-chaos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine learning pedagogy to support the research community</title>
+      <link>https://kevindick.ai/publication/dick-2021-machine/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://kevindick.ai/publication/dick-2021-machine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>To Keystone or Not to Keystone, that is the Correction</title>
+      <link>https://kevindick.ai/publication/dick-2021-keystone/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://kevindick.ai/publication/dick-2021-keystone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Gas Prices of America: The Machine-Augmented Crowd-Sourcing Era</title>
       <link>https://kevindick.ai/publication/dick-2020-gas/</link>
       <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
       <guid>https://kevindick.ai/publication/dick-2020-gas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chaos game representations &amp; deep learning for proteome-wide protein prediction</title>
+      <link>https://kevindick.ai/publication/dick-2020-chaos/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://kevindick.ai/publication/dick-2020-chaos/</guid>
       <description></description>
     </item>
     

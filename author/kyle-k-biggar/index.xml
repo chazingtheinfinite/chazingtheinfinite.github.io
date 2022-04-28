@@ -5,12 +5,20 @@
     <link>https://kevindick.ai/author/kyle-k-biggar/</link>
       <atom:link href="https://kevindick.ai/author/kyle-k-biggar/index.xml" rel="self" type="application/rss+xml" />
     <description>Kyle K Biggar</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Kevin Dick 2015-2020</copyright><lastBuildDate>Tue, 31 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Kevin Dick 2015-2022</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://kevindick.ai/images/icon_hu1c053a1274b23fb48c6a1c0b5482e2ad_31633_512x512_fill_lanczos_center_2.png</url>
       <title>Kyle K Biggar</title>
       <link>https://kevindick.ai/author/kyle-k-biggar/</link>
     </image>
+    
+    <item>
+      <title>Multi-schema computational prediction of the comprehensive SARS-CoV-2 vs. human interactome</title>
+      <link>https://kevindick.ai/publication/dick-2021-multi/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://kevindick.ai/publication/dick-2021-multi/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Computational Prediction of the Comprehensive SARS-CoV-2 vs. Human Interactome to Guide the Design of Therapeutics</title>
