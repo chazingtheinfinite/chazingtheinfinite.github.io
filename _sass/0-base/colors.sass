@@ -1,0 +1,38 @@
+// Brand palette
+$color-midnight: #111d4f        // Primary deep midnight blue
+$color-midnight-strong: #0e173f // Slightly darker for hover/accents
+$color-magenta: #d63384        // Complementary magenta accent
+$color-magenta-strong: #c32773 // Darker magenta for hover states
+
+// Neutrals / surfaces
+$off-white: #FBF7F0
+$bg-white: #ffffff
+$surface-100: #F6F8FA
+$surface-200: #EFF2F6
+
+// Text and UI
+$text-default: #2B2B2B
+$text-muted: #6E7480
+$glass-midnight: rgba(17,29,79,0.08) // subtle midnight-tinted overlay
+
+// Utility colors
+$success: #2fae6a
+$warning: #f6c85f
+$danger: #e55353
+
+// Semantic aliases (use these across the project)
+$primary: $color-midnight
+$primary-hover: $color-midnight-strong
+$accent: $color-magenta
+$accent-hover: $color-magenta-strong
+$background: $bg-white
+$muted: $text-muted
+
+// Accessibility helpers
+$on-primary: #ffffff
+$on-accent: #ffffff
+
+// Backwards-compatible aliases
+// Map legacy variables to the new brand palette so you don't have to edit every file.
+$red: $primary        // legacy $red now uses midnight blue
+$brown: $accent      // legacy $brown now uses magenta

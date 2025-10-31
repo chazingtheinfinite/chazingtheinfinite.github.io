@@ -1,0 +1,22 @@
+- name: "Dr. Sima Ataei"
+  position: "AI Analyst"
+  current: true
+  headshot: "sataei.png"
+  linkedin: "https://www.linkedin.com/in/sima-ataei-61324578/"
+
+- name: "Dr. Alibek Kruglikov"
+  position: "Postdoctoral Fellow"
+  current: true
+  headshot: "akruglikov.png"
+  linkedin: "https://www.linkedin.com/in/alibek-kruglikov/"
+
+- name: "Katie Lonsway"
+  position: "Undergraduate Intern"
+  current: true
+  headshot: "klonsway.png"
+  linkedin: "https://www.linkedin.com/in/katie-lonsway-00488b293/"
+
+<> REMOVE THE TRIANGL BRACKETS TO INCLUDE
+ <> - name: "Daniel J. Kyrollos"
+ <> current: false
+
