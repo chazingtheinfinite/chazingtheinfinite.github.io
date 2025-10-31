@@ -1,10 +1,10 @@
-- name: "Dr. Sima Ataei"
+- name: "Sima Ataei, PhD"
   position: "AI Analyst"
   current: true
   headshot: "sataei.png"
   linkedin: "https://www.linkedin.com/in/sima-ataei-61324578/"
 
-- name: "Dr. Alibek Kruglikov"
+- name: "Alibek Kruglikov, PhD"
   position: "Postdoctoral Fellow"
   current: true
   headshot: "akruglikov.png"
