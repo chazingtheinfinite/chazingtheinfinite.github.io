@@ -1,6 +1,6 @@
-# ATo Lab Website
+# Dci AI Lab Website
 
-A static website made with Jekyll for the ATo Lab, a multidisciplinary research lab at Northeastern University working at the intersections of human-computer interaction, games, and social justice.
+A static website made with Jekyll for the Dick AI Lab, a multidisciplinary research lab at CHEO-RI and BORN Ontario.
 
 ## Tech Stack
 
@@ -10,20 +10,14 @@ A static website made with Jekyll for the ATo Lab, a multidisciplinary research 
 
 **Jekyll** (HTML, Sass, Bootstrap, Liquid) - Implementation
 
-**Figma** - Design Prototype
-
-**Midjourney** - Image Generation, Mockups
-
-[**Realtime Colors**](https://realtimecolors.com/) - Color Palette
-
 ### Process:
 
 1. Decide on a means of implementation: Jekyll Static Site Generator
 2. Setup GitHub pages repository
-3. Connect lab.alexandrato.com subdomain to GitHub Pages
+3. Connect kevindick.ai subdomain to GitHub Pages
 4. Use Realtime Colors to decide on a palette
 5. Use Midjourney to generate mockups to take inspiration from
-6. Design prototype in Figma
+6. Design prototype website
 7. Cropped headshot image files using Photoshop
 8. Implement prototype using Jekyll
 9. Write documentation explaining how it works and how to update
