@@ -1,4 +1,4 @@
-# Dci AI Lab Website
+# Dick AI Lab Website
 
 A static website made with Jekyll for the Dick AI Lab, a multidisciplinary research lab at CHEO-RI and BORN Ontario.
 
